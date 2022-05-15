@@ -1,0 +1,45 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+    padding: 0;
+}
+body {
+    background: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    color: #333;
+}
+h1 {
+    margin-top: 0;
+}
+button {
+    margin-top: 15px;
+    padding: 10px 12px;
+    cursor: pointer;
+}
+.label, .input {
+    display: block;
+}
+label {
+    margin-bottom: 3px;
+}
+input {
+    display: block;
+    padding: 5px;
+    min-width: 350px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 1px solid rgb(116, 116, 116);
+}
+
+ul {
+    padding: 15px;
+    font-size: 18px;
+}
+ul li {
+    margin: 7px 0;
+}
+a {
+    color: #333;
+    font-size: 20px;
+}
+

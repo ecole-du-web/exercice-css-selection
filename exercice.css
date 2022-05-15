@@ -1,0 +1,91 @@
+/* 1. Sélectionnez seulement les éléments qui ont à la fois les classes "title" ET "main-title" et donnez-leur un background "khaki" */
+
+
+
+
+
+
+/* 2. Sélectionnez seulement les h2 qui descendent directement d'un élément parent avec la classe ".content" et donnez-leur la couleur "red" */
+
+
+
+
+
+
+
+/* 3. Sélectionnez tous les éléments qui contiennent la classe "txt" et tous les éléments qui contiennent la classe "article-link" à l'aide du même sélecteur, et donnez-leur la couleur "darkcyan" */
+
+
+
+
+
+
+
+
+/* 4. Selectionnez seulement le bouton qui contient la classe "modify-btn" et qui est directement précédé par le bouton contenant la classe "delete-btn" et donnez-lui un fond "hotpink" */
+
+
+
+
+
+
+
+
+
+/* 5. Sélectionnez les inputs qui contiennent l'attribut type="text" et donnez-leur un fond "slateblue" */
+
+
+
+
+
+
+
+
+
+
+
+/* 6. Changez la couleur de fond du formulaire en "lightblue" seulement quand un des enfants reçoit le focus */
+
+
+
+
+
+
+
+
+
+
+/* 7. Sélectionnez le 4ème élément de la liste et donnez-lui un fond "seagreen" */
+
+
+
+
+
+
+
+
+
+/* 8. sélectionnez tous les li sauf le 5ème et donnez-leur un fond "midnightblue" */
+
+
+
+
+
+
+
+
+/* 9. Sélectionnez seulement les liens pointant vers des sites sécurisés(https) et donnez-leur un fond "plum"*/
+
+
+
+
+
+
+
+
+
+
+/* 10. Donnez une couleur de fond "crimson" à la premiere ligne du dernier paragraphe et augmentez la taille de sa première lettre à 50px */
+
+/* Vous avez besoin de faire deux sélections */
+
